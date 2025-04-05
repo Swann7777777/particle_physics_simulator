@@ -1,1 +1,1 @@
-# particle_physics_simulator
+This is a particle physics simulator made with C++ and rendered using the SDL3 library. It is still a work in progress!
